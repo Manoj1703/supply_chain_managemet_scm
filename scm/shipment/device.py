@@ -1,0 +1,1 @@
+"""Shipment device service placeholder."""

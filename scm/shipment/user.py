@@ -1,0 +1,1 @@
+"""Shipment user service placeholder."""
